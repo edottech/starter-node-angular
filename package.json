@@ -2,6 +2,7 @@
   "name": "starter-node-angular",
   "main": "server.js",
   "dependencies": {
+<<<<<<< HEAD
     "body-parser": "^1.18.3",
     "bson": "^3.0.2",
     "express": "^4.16.4",
@@ -11,3 +12,12 @@
     "node-ssh": "^5.1.2"
   }
 }
+=======
+    "express" : "~4.5.1",
+	"mongoose" : "~3.8.0",
+	"body-parser" : "~1.4.2",
+	"method-override" : "~2.0.2"
+  }
+}
+
+>>>>>>> f856e31ede797c9fcf1203839f8a96a5b5340eaa
